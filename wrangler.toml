@@ -12,5 +12,3 @@ kv_namespaces = [
 [assets]
 directory = "./public"
 
-[workers_dev]
-
