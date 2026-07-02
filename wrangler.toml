@@ -9,3 +9,7 @@ kv_namespaces = [
 ]
 [assets]
 directory = "./public"
+
+routes = [
+  "work.berrychiao.cc.cd/*"
+]
