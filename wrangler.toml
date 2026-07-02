@@ -12,3 +12,8 @@ kv_namespaces = [
 [assets]
 directory = "./public"
 
+
+[[routes]]
+pattern = "work.berrychiao.cc.cd"
+custom_domain = true
+
